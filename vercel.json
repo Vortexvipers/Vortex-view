@@ -8,7 +8,6 @@
     }
   },
   "env": {
-    "KV_URL": "@kv_url",
-    "KV_TOKEN": "@kv_token"
+    "KV_URL": "@kv_url"
   }
 }
