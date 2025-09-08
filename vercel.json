@@ -6,8 +6,5 @@
     "pages/api/get/[id].js": {
       "maxDuration": 10
     }
-  },
-  "env": {
-    "KV_URL": "@kv_url"
   }
 }
